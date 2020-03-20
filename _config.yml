@@ -1,7 +1,7 @@
 # Site settings
 title: Sally's Blog
 SEOTitle: 萨利的博客 | Created by wangzxsally
-header-img: img/IMG_9121.jpg
+header-img: img/IMG_2980_page background
 email: wangzxsally@gmail.com
 description: "I will have poetry in my life, and adventure, and love. Love above all."
 keyword: "wangzxsally, Zixin, 王子欣"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangzxsally/wangzxsally.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Grow as you can glow"
-sidebar-avatar: /img/IMG_9121.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_Zixin Wang.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
